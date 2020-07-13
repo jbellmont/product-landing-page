@@ -6,7 +6,7 @@ A responsive product landing page for my friend's photography and videography bu
 
 This project was undertaken as part of the "FreeCodeCamp - Responsive Web Design" course.
 
-All photos are from [CMP PHOTO VIDEO](https://www.cmphotovideo.co.uk/).
+All photos are from [CM PHOTO VIDEO](https://www.cmphotovideo.co.uk/).
 
 ## Objectives
 - Build a product landing page using HTML5 and CSS3
